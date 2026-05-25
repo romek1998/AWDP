@@ -54,16 +54,16 @@ Należy pamiętać, że liczba po **prawej** stronie zakresu *nie jest zawarta* 
 
 ## Pytania, informacje zwrotne i komunikacja
 
-Z instruktorami można skontaktować się w następujący sposób:
+Z instruktorem można skontaktować się w następujący sposób:
 
 -   Godziny pracy.
 -   Publiczne pytanie na kanale Discord kursu SAD.
 -   Prywatna wiadomość przez Discord.
 -   E-mail.
 
-Dołącz do kanału Discord kursu AWDP tutaj: [kanał Discord SAD 2025](https://discord.gg/K5Z3pTjs)
+Dołącz do kanału Discord kursu AWDP tutaj: [kanał Discord AWDP](https://discord.gg/BvC7apGX)
 
-Należy pamiętać, że generalnie preferujemy komunikację przez Discord, a nie e-mail.
+Należy pamiętać, że generalnie preferuję komunikację przez Discord, a nie e-mail.
 
 ## Uczciwość akademicka
 
